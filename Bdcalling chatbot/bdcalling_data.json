@@ -1,0 +1,138 @@
+{
+  "company": {
+    "name": "bdCalling IT Ltd",
+    "founded": 2013,
+    "founder": "Muhammad Monir Hossain",
+    "headquarters": "Dhaka, Bangladesh",
+    "employees": 1100,
+    "clients": 40000,
+    "countries_served": 47,
+    "tagline": "We help global brands build digital solutions.",
+    "website": "https://bdcalling.com",
+    "mission": "Empowering businesses worldwide with digital solutions that drive success and innovation.",
+    "vision": "To become a global leader in IT services by focusing on quality, performance, and value."
+  },
+  "departments": {
+    "Web Development": ["Frontend Team", "Backend Team", "Full Stack Team"],
+    "Design": ["UI/UX", "Graphics"],
+    "Mobile Development": ["Flutter Team", "Android", "iOS"],
+    "ERP Division": ["Odoo Team"],
+    "Digital Marketing": ["SEO", "Email Marketing", "Paid Ads"],
+    "Support": ["Customer Service", "Technical Support"],
+    "Training & Education": ["bdCalling Academy"]
+  },
+  "sub_companies": [
+    {
+      "name": "bdCalling Academy",
+      "type": "Educational/Training Wing",
+      "founded": 2023,
+      "description": "Skill development wing offering hands-on training on web, mobile, and WordPress projects.",
+      "opportunities": "Internships, scholarships, and job placement within bdCalling IT Ltd.",
+      "courses": ["HTML & CSS", "JavaScript", "React", "PHP & Laravel", "WordPress", "Flutter"],
+      "website": "https://bdcalling.com/bdcalling-academy"
+    },
+    {
+      "name": "SM Technology",
+      "type": "Sister Concern",
+      "services": ["Domain & Hosting", "BPO", "Hardware Supply"],
+      "line_manager": "Tanvir Ahmed",
+      "location": "Dhaka"
+    },
+    {
+      "name": "Coderbd",
+      "type": "Software Wing",
+      "focus": "Software development and internal automation tools",
+      "projects": ["HRM System", "Inventory App", "POS Software"]
+    },
+    {
+      "name": "bdCalling BizSupport",
+      "type": "Customer Service/BPO",
+      "services": ["24/7 Live Chat", "Email Support", "Virtual Assistants"],
+      "team_size": 200
+    }
+  ],
+  "tools_technologies": {
+    "web": ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React", "Laravel", "PHP", "MySQL"],
+    "mobile": ["Flutter", "Dart"],
+    "design": ["Figma", "Adobe XD", "Photoshop"],
+    "erp": ["Odoo", "PostgreSQL"],
+    "others": ["Git", "VS Code", "cPanel", "Firebase"]
+  },
+  "projects": [
+    {
+      "name": "Pharma ERP",
+      "description": "An enterprise-level ERP solution for pharmaceutical companies.",
+      "tech_stack": ["Odoo", "PostgreSQL"],
+      "client": "Mediline BD"
+    },
+    {
+      "name": "E-Commerce Platform",
+      "description": "Custom e-commerce system with integrated delivery and payment gateway.",
+      "tech_stack": ["React", "Laravel", "MySQL"]
+    }
+  ],
+  "career": {
+    "open_roles": [
+      {
+        "title": "Frontend Developer",
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "location": "Dhaka / Remote"
+      },
+      {
+        "title": "Odoo Developer",
+        "skills": ["Python", "Odoo", "PostgreSQL"],
+        "location": "Dhaka"
+      },
+      {
+        "title": "Digital Marketing Intern",
+        "skills": ["SEO", "Facebook Ads", "Google Ads"],
+        "duration": "3 months"
+      }
+    ],
+    "internships": {
+      "available": true,
+      "fields": ["Web Development", "Digital Marketing", "Design", "Customer Support"],
+      "apply_link": "https://bdcalling.com/careers"
+    }
+  },
+  "clients": [
+    "Tech Valley",
+    "City Hospital Ltd.",
+    "EduTech BD",
+    "Hotel Dreamland",
+    "Bangladesh Freight Forwarders Association"
+  ],
+  "faqs": [
+    {
+      "question": "Does bdCalling offer remote jobs?",
+      "answer": "Yes, bdCalling offers flexible and remote job opportunities based on the position."
+    },
+    {
+      "question": "Can I get a job after completing training from bdCalling Academy?",
+      "answer": "Yes, high-performing graduates from the Academy are often hired directly into bdCalling teams."
+    },
+    {
+      "question": "What is bdCalling's main focus?",
+      "answer": "Its focus is providing web and mobile development, ERP solutions, and business process outsourcing."
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com/bdcalling",
+    "linkedin": "https://linkedin.com/company/bdcalling-it-ltd",
+    "youtube": "https://youtube.com/@bdcalling"
+  },
+  "contact": {
+    "email": "info@bdcalling.com",
+    "phone": "+880 1796-123456",
+    "office_address": "Level 5, House 42, Road 3, Dhanmondi, Dhaka-1209, Bangladesh"
+  },
+  "leadership": {
+    "ceo": "Muhammad Monir Hossain",
+    "managers": {
+      "SM Technology": "Tanvir Ahmed",
+      "bdCalling Academy": "Mushfiq Rahman",
+      "Coderbd": "Rezaul Karim",
+      "BizSupport": "Rafiul Islam"
+    }
+  }
+}
